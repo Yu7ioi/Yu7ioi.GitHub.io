@@ -37,7 +37,7 @@ title: 工具下载
 ```
 版本：v.2.2.6(Build 992)
 作用:修改GTASA模型外观以及修复卡单模型工具
-----
+```
 
 下载链接：
 [123盘](https://www.123pan.com/s/B2GqVv-O86wd.html)
@@ -45,7 +45,7 @@ title: 工具下载
 # IMG Tool
 
 ```
-IMG Tool
+IMG Tool工具
 ```
 
 下载链接：
