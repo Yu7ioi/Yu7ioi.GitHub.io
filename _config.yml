@@ -35,6 +35,8 @@ menu:
     url: /pages/GTASA_Tools.html
   - title: SAMP插件
     url: /pages/Scripts.html
+  - title: 车辆MOD
+    url: /page/cars.html
   - title: 分类
     url: /pages/categories.html
   - title: 搜索
