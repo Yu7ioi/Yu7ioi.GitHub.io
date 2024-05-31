@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: iiAuAiio
-description: iiAuAiio的个人博客
+title: XiaoYu
+description: XiaoYu的个人博客
 keywords: TMaize,Blog,Java,Html,JavaScript
 author: iiAuAiio
-footerText: 'By iiAuAiio'
+footerText: 'By XiaoYu'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -17,11 +17,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://blog.tmaize.net'
+domainUrl: '暂未设置'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=miTCFKUcBldF3AjsO5vFGJEsVOPhR-Ix&authKey=lgi9nqPwOmIFM2ZqWKP5s7WOHkaPvo%2F6ln5k9P82MbOU8jr857PGntEpVillP2jG&noverify=0&group_code=716951248
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -61,45 +61,7 @@ extCount: false
 
 # 友情链接
 links:
-  - title: 文科中的技术宅
-    url: https://www.townwang.com
-  - title: Auuu Nya Blog
-    url: http://mu1er.cn
-  - title: 春风十里
-    url: https://www.geek-era.com
-  - title: 阿川的个人博客
-    url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
-  - title: 达达知识
-    url: https://www.dadapush.com
-  - title: 祈雨的博客
-    url: https://wakzz.cn
-  - title: hongCYu’s Blog
-    url: https://hongcyu.cn
-  - title: Sorryfu
-    url: https://fushaolei.github.io
-  - title: 简单的人生笔记
-    url: https://yoyling.com
-  - title: oneNeko的博客
-    url: https://blog.oneneko.com
-  - title: Py's Whisper
-    url: https://whisper.pyliubaolin.top
-  - title: Yuyao's Blog
-    url: http://hellocode.ink
-  - title: 木叶的博客
-    url: https://muye.ml
-  - title: Stansec
-    url: https://standeblog.com
-  - title: Wenn的个人博客
-    url: https://wenn.tech
-  - title: Congbo's Blog
-    url: https://congbo.site
-  - title: 咕咚同学
-    url: https://gudong.site
-  - title: Chemcat Blog
-    url: https://chemcat.gitee.io
-  - title: 大葱博客
-    url: https://blog.zzzdc.com/
+  - title: 关于我个人哔哩哔哩账号
+    url: https://b23.tv/KyOCVEi
+  - title: QQ群
+    url: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=miTCFKUcBldF3AjsO5vFGJEsVOPhR-Ix&authKey=lgi9nqPwOmIFM2ZqWKP5s7WOHkaPvo%2F6ln5k9P82MbOU8jr857PGntEpVillP2jG&noverify=0&group_code=716951248
